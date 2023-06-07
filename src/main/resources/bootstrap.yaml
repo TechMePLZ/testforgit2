@@ -1,0 +1,4 @@
+eureka:
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
